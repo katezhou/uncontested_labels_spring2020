@@ -1,1 +1,1 @@
-# uncontested_labels_spring2020
+Please store all datafiles in the "data" folder"
