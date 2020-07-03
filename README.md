@@ -22,3 +22,7 @@ https://sites.google.com/site/nlpannotations/
 
 Sentiment:
 https://github.com/cjhutto/vaderSentiment
+
+CIFAR-10H:
+https://github.com/jcpeterson/cifar-10h
+
