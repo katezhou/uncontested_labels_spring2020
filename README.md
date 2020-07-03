@@ -23,6 +23,9 @@ https://sites.google.com/site/nlpannotations/
 Sentiment:
 https://github.com/cjhutto/vaderSentiment
 
+ImageNetV2:
+https://github.com/modestyachts/ImageNetV2
+
 CIFAR-10H:
 https://github.com/jcpeterson/cifar-10h
 
