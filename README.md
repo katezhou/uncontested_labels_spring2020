@@ -21,4 +21,4 @@ WSD:
 https://sites.google.com/site/nlpannotations/
 
 Sentiment:
-http://ir.ischool.utexas.edu/square/
+https://github.com/cjhutto/vaderSentiment
